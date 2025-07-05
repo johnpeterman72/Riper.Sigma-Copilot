@@ -1,6 +1,6 @@
-# CursorRIPER♦Σ GitHub Copilot Edition
+# RIPER♦Σ for GitHub Copilot Edition
 
-> A mathematically elegant, structured development framework with 5 operational modes, now optimized for GitHub Copilot.
+> A mathematically elegant, structured development framework with five operational modes, now optimized for GitHub Copilot.
 
 [![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-Compatible-blue)](https://github.com/features/copilot)
 [![MCP Integration](https://img.shields.io/badge/MCP-Integrated-green)](https://modelcontextprotocol.io)
@@ -8,7 +8,7 @@
 
 ## 🎯 Overview
 
-CursorRIPER Σ (Sigma) is a structured development methodology that provides mathematically precise operational modes for software development. This GitHub Copilot edition adapts the original Cursor IDE framework to work seamlessly with GitHub Copilot's capabilities while maintaining the mathematical elegance and symbolic notation.
+RIPER Σ (Sigma) is a structured development methodology that provides mathematically precise operational modes for software development. This GitHub Copilot edition adapts the original Cursor IDE framework to work seamlessly with GitHub Copilot's capabilities while maintaining the mathematical elegance and symbolic notation.
 
 ### The 5 RIPER Modes
 
@@ -103,7 +103,7 @@ Analyze the current implementation and identify areas for improvement.
 Based on research findings, create a comprehensive refactoring plan.
 
 !update_progress("Refactoring Plan:
-1. Update authentication system
+1. Update the authentication system
 2. Modernize API endpoints  
 3. Improve error handling
 ...")
@@ -218,7 +218,7 @@ See [Troubleshooting Guide](./docs/troubleshooting.md) for detailed solutions.
 
 ### Development Setup
 1. Fork the repository
-2. Create feature branch
+2. Create a feature branch
 3. Follow framework conventions
 4. Test with multiple GitHub Copilot modes
 5. Update documentation
@@ -243,7 +243,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Documentation**: Start with setup and troubleshooting guides
+- **Documentation**: Start with the setup and troubleshooting guides
 - **Issues**: Use GitHub Issues for bug reports
 - **Discussions**: Use GitHub Discussions for questions
 - **Feature Requests**: Use GitHub Issues with enhancement label
